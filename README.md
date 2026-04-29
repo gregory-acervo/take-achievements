@@ -1,2 +1,2 @@
 # take-achievements
-take-achievements
+take-achievements!
